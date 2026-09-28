@@ -1,0 +1,30 @@
+[
+  {
+    "id": "2afd347c-3db7-40fb-9139-6a95aab08ab8",
+    "email": "ramezliaqatdev1@gmail.com",
+    "password": "$2b$10$ODTCcKbLqh4g7aMGUa9Qf.f6zqaOI/5HxSPKekwlZHkh5taq6SxBG",
+    "emergencyContact": "031177277772"
+  },
+  {
+    "id": "6eb5a571-2ecb-4a4c-9a9e-0bcaa9ccff4a",
+    "email": "ramezliaqatdev@gmail.com",
+    "password": "$2b$10$2CoqLAoNkJmoijQTKzb3M.1AW4bUBDidS0SLSXobIeHHV0998FZPW",
+    "emergencyContact": "031177277772"
+  },
+  {
+    "id": "70de5fec-b21e-4fbb-b98f-9cd13e819a1d",
+    "email": "ramezliaqatdev12@gmail.com",
+    "password": "$2b$10$/I0O87oxl08iYTZnnk16Y.N3ODabIoviLNuVrHh2BdF8cCA1MpzGm",
+    "emergencyContact": "031177277772",
+    "children": []
+  },
+  {
+    "id": "6a2d8734-b616-48eb-86cf-b63ef37352cb",
+    "email": "semester7ucp@gmail.com",
+    "password": "$2b$10$e8rrmSLZeUifNL/.pR8p5ubDKMJgproRFSFGN1D37frrECaj63Pra",
+    "emergencyContact": "03117757775",
+    "children": [
+      "6e563e95-a6eb-4278-acbf-05f31a5b1e61"
+    ]
+  }
+]
