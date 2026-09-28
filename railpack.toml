@@ -1,0 +1,7 @@
+[build]
+  cmd = ["sh", "-c", "cd frontend && npm install && npm run build && cd ../backend && npm install"]
+  dir = "/"
+
+[start]
+  cmd = "cd backend && node app.js"
+
